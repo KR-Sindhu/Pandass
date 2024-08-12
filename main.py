@@ -20,4 +20,7 @@ print("sum of age:",df)
 condition = lambda row:row['age']>40
 df = filter_rows(df,condition)
 print(df)
+
+#pull operation
+
  
